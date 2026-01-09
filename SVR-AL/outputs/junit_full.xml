@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" name="TestAcquisition" skipped="0" tests="2" time="0.19129">
+    <testcase classname="TestAcquisition" name="testA1Selection" time="0.1742"/>
+    <testcase classname="TestAcquisition" name="testUbootSelection" time="0.017086"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="TestDOE" skipped="0" tests="1" time="0.04064">
+    <testcase classname="TestDOE" name="testKmeansDoeFromPool" time="0.04064"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="TestNormalization" skipped="0" tests="3" time="0.037531">
+    <testcase classname="TestNormalization" name="testMinMax01" time="0.021579"/>
+    <testcase classname="TestNormalization" name="testFitNormModelFields" time="0.0091146"/>
+    <testcase classname="TestNormalization" name="testApplyNormShapes" time="0.006838"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="TestPool" skipped="0" tests="1" time="0.019862">
+    <testcase classname="TestPool" name="testBuildPoolTruncInvLhs" time="0.019862"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="TestStopCriteria" skipped="0" tests="2" time="0.0182">
+    <testcase classname="TestStopCriteria" name="testStopOnNmax" time="0.010515"/>
+    <testcase classname="TestStopCriteria" name="testStopOnConvergence" time="0.0076853"/>
+  </testsuite>
+</testsuites>

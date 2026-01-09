@@ -1,0 +1,38 @@
+正在运行 TestAcquisition
+..
+已完成 TestAcquisition
+__________
+
+正在运行 TestDOE
+.
+已完成 TestDOE
+__________
+
+正在运行 TestNormalization
+...
+已完成 TestNormalization
+__________
+
+正在运行 TestPool
+.
+已完成 TestPool
+__________
+
+正在运行 TestStopCriteria
+..
+已完成 TestStopCriteria
+__________
+
+  1×9 TestResult 数组 - 属性:
+
+    Name
+    Passed
+    Failed
+    Incomplete
+    Duration
+    Details
+
+总计:
+   9 Passed, 0 Failed, 0 Incomplete.
+   0.30752 秒测试时间。
+

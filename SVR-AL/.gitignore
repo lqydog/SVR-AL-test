@@ -1,0 +1,8 @@
+outputs/*
+!outputs/.gitkeep
+
+*.asv
+*.m~
+*.mat
+*.fig
+
